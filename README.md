@@ -3,5 +3,5 @@
 
 To run Code - 
 
-  # terraform init
-  # terraform apply -var-file c.tfvars -auto-approve
+  # 1) terraform init
+  # 2) terraform apply -var-file c.tfvars -auto-approve
